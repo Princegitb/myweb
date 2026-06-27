@@ -38,5 +38,5 @@ This project was created to practice:
 
 ---
 
-⭐ This is my first GitHub project. More exciting projects coming soon!
+⭐ This is my first GitHub project. More exciting projects coming soon
 
