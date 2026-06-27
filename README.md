@@ -1,57 +1,42 @@
-# ⚡ Electricity Website
+# My First HTML & CSS Project
 
-A modern and responsive Electricity-themed website built using **HTML** and **CSS**. The project showcases an attractive landing page with custom graphics and a clean user interface.
+This is my first web development project created using HTML and CSS. It is a simple static website made for learning the basics of web development.
 
-## 📂 Project Structure
-
-```
-├── index.html      # Main webpage
-├── style.css       # Stylesheet
-├── bg.png          # Background image
-├── cat.png         # Image asset
-├── html25.png      # Image asset
-├── fun.html        # Additional webpage
-└── README.md       # Project documentation
-```
-
-## ✨ Features
-
-- Responsive layout
-- Clean and modern UI
-- Custom background and image assets
-- Separate styling using CSS
-- Lightweight and easy to customize
-
-## 🛠️ Technologies Used
+## 🚀 Technologies Used
 
 - HTML5
 - CSS3
 
-## 🚀 Getting Started
+## 📁 Project Files
 
-1. Clone or download this repository.
-2. Open the project folder.
-3. Double-click `index.html` or open it in your preferred web browser.
+- `index.html` - Main webpage
+- `style.css` - Stylesheet
+- `fun.html` - Additional HTML page
+- `bg.png` - Background image
+- `cat.png` - Image asset
+- `html25.png` - Image asset
 
-No additional installation or dependencies are required.
+## 🎯 Features
 
-## 📸 Screenshots
+- Simple and clean design
+- Basic HTML structure
+- External CSS styling
+- Image integration
 
-Add screenshots of your website here.
+## 💻 How to Run
 
-## 📌 Future Improvements
+1. Download or clone the repository.
+2. Open `index.html` in your web browser.
 
-- Add JavaScript for interactivity
-- Improve animations
-- Dark mode support
-- Better mobile responsiveness
-- Contact form
-- Electricity usage dashboard
+## 📚 Learning Purpose
 
-## 👨‍💻 Author
-
-**Prince**
+This project was created to practice:
+- HTML basics
+- CSS styling
+- Working with images
+- Project folder structure
 
 ---
 
-⭐ If you like this project, consider giving it a star.
+⭐ This is my first GitHub project. More exciting projects coming soon!
+
